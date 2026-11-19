@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import ME from "../../assets/me-about.png";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
+import { FiBriefcase } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 function About() {
@@ -21,12 +21,15 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>15 years</small>
+              <small>16+ years</small>
             </article>
             <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>3</small>
+              <FiBriefcase className="about__icon" />
+              <h5>Companies</h5>
+              <small>
+                RIM, Microsoft, eBay, Oracle, Amazon, Apple, Walmart Global
+                Tech
+              </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -38,7 +41,7 @@ function About() {
             I am a highly passionate software expert, focusing primarily on Web
             Applications, Web Services, Cloud Computing (used Azure at Microsoft
             and OCI at Oracle, used AWS and GCP for my Personal projects), Big
-            Data (COSMOS and SCOPE), and Mobile Development. My 15 years of
+            Data (COSMOS and SCOPE), and Mobile Development. My 16+ years of
             professional experience, on top of my undergraduate and graduate
             studies (in Vietnam and in the U.S.) have equipped me with a
             profound knowledge of object-oriented design and development,
