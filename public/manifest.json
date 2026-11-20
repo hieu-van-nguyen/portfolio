@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hieu Nguyen",
+  "name": "Hieu Van Nguyen — Full-Stack Developer",
+  "description": "Hieu Van Nguyen is a full-stack developer with 16+ years building web applications, services and cloud systems at Microsoft, eBay, Oracle, Apple, Amazon and Walmart Global Tech.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#1f1f38",
+  "background_color": "#1f1f38"
 }
