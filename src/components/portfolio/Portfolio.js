@@ -17,38 +17,38 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    image: IMG1,
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   },
   {
     id: 3,
-    image: IMG3,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    image: IMG1,
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   },
   {
     id: 4,
-    image: IMG4,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    image: IMG1,
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   },
   {
     id: 5,
-    image: IMG5,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    image: IMG1,
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   },
   {
     id: 6,
-    image: IMG6,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    image: IMG1,
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   }
 ];
 
