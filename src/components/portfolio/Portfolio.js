@@ -11,9 +11,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "My Project",
-    github: "https://github.com/hieu-van-nguyen",
-    demo: "https://www.dailycodingpractices.com/"
+    title: "Task Manager",
+    github: "https://github.com/hieu-van-nguyen/task-manager",
+    demo: "https://task-manager-f3136.web.app/"
   },
   {
     id: 2,
