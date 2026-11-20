@@ -59,10 +59,9 @@ npm run build
 
 ### Deploy to GitHub Pages
 
-The project is configured for easy deployment using the `gh-pages` package:
-```bash
-npm run deploy
-```
+Every push to `main` triggers [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml), which runs `npm ci`, `npm test` and `npm run build`, then publishes `build/` with `actions/deploy-pages`. If a test fails, nothing is deployed. You can also start a deploy by hand from the Actions tab ("Run workflow").
+
+The repository's **Settings → Pages → Source** must be set to **GitHub Actions**.
 
 ## 📂 Project Structure
 
